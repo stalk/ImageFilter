@@ -22,10 +22,5 @@ public class ServiceMain {
     public static void main(String[] args) {
         ApplicationContext app = new AnnotationConfigApplicationContext(ServiceMain.class);
 
-        HashSet<String> set = new HashSet<String>();
-        Hashtable<String,String> t = new Hashtable<String, String>();
-
-        HashMap<String, String> t2 = new HashMap<String, String>();
-
     }
 }
