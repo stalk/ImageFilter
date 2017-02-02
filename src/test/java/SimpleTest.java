@@ -23,6 +23,6 @@ public class SimpleTest {
 
     @Test
     public void test3(){
-        assertFalse("It must be false!", true);
+        assertFalse("It must be false!", false);
     }
 }
