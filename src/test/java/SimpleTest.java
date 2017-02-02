@@ -20,4 +20,9 @@ public class SimpleTest {
     public void test2(){
         assertNotEquals(true,false);
     }
+
+    @Test
+    public void test3(){
+        assertFalse("It must be false!", true);
+    }
 }
