@@ -25,4 +25,7 @@ public class SimpleTest {
     public void test3(){
         assertFalse("It must be false!", false);
     }
+
+    @Test
+    public void test4() {}
 }
