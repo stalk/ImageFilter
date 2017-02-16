@@ -28,4 +28,7 @@ public class SimpleTest {
 
     @Test
     public void test4() {}
+
+    @Test
+    public void test5() {}
 }
